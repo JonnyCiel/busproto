@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BusApp Ibagué</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fui_default_toolbar_title" translatable="false">Registro</string>
+</resources>
