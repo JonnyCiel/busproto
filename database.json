@@ -1,0 +1,249 @@
+{
+  "Buses" : {
+    "-Kw7HVHTgj2_7e8Fk0qS" : {
+      "busPlaca" : "wtq04l",
+      "lat" : [ 4.428812811185829 ],
+      "lng" : [ -75.23834804772946 ],
+      "rutaNumero" : 8,
+      "rutas" : [ "IGLESIA DEL TOPACIO", "COLEGIO AMERICANO", "BARRIO SAN DIEGO" ]
+    },
+    "-Kw7HejjbCXmmx9Ig7tu" : {
+      "busPlaca" : "wtk20s",
+      "lat" : [ 4.4390201623450105 ],
+      "lng" : [ -75.18815855264279 ],
+      "rutaNumero" : 40,
+      "rutas" : [ "BOQUERON PARTE ALTA", "CARRERA 1ERA", "DIRECTA CARRERA 5TA" ]
+    },
+    "-Kw7I6mACvKToObw9D86" : {
+      "busPlaca" : "wtl78m",
+      "lat" : [ 4.450516299987381 ],
+      "lng" : [ -75.15607933282467 ],
+      "rutaNumero" : 82,
+      "rutas" : [ "SALADO", "AVENIDA JORDAN", "LIBERTADOR" ]
+    }
+  },
+  "Users" : {
+    "3FWALgRdZONlpP3ktBHEGJvIOOP2" : {
+      "email" : "miguerodriguez0@gmail.com",
+      "id" : 1508384390512,
+      "nombre" : "MIGUEL RODRIGUEZ",
+      "picPath" : "https://lh5.googleusercontent.com/-Gshsg9a-3aA/AAAAAAAAAAI/AAAAAAAAAAA/ACnBePZp7oBeDzzylq5xMbxId3kKlbeCiQ/s96-c/photo.jpg"
+    },
+    "5UnaUvcWOUcClvXKN1bLo2cCiQg1" : {
+      "email" : "glendymarcela06@gmail.com",
+      "id" : 1509283295706,
+      "nombre" : "Cristian Murillo",
+      "picPath" : "NO"
+    },
+    "5fV2kwQ8wtRF8wbqt9KZdfYfXIK2" : {
+      "email" : "cadrejipar@gmail.com",
+      "id" : 1509502629212,
+      "nombre" : "Andrés Parra",
+      "picPath" : "NO"
+    },
+    "7fR9Lv2ubKXm5W3BH0nlvo5ZKSb2" : {
+      "email" : "jjosep_09@hotmail.com",
+      "id" : 1509333916786,
+      "nombre" : "Juan José Valenzuela ",
+      "picPath" : "NO"
+    },
+    "9AS3swnMZIOLNYlYZKCxvetwfKH2" : {
+      "email" : "sfparada56@gmail.com",
+      "id" : 1509291009548,
+      "nombre" : "Sergio Parada",
+      "picPath" : "NO"
+    },
+    "A2mBPShPSzg2w2RsF6hav6kSwTc2" : {
+      "email" : "deljaguar@gmail.com",
+      "id" : 1510274584893,
+      "nombre" : "Javier Gualtero ",
+      "picPath" : "NO"
+    },
+    "BFFK2npecAUoXWGPHyA2MFI6j5j1" : {
+      "email" : "mariomorad18@hotmail.com",
+      "id" : 1509333819548,
+      "nombre" : "Mario Morad",
+      "picPath" : "NO"
+    },
+    "EXPylwPRkIVIXmBhPhErX3Okugu1" : {
+      "email" : "busappibague@gmail.com",
+      "id" : 1508781136512,
+      "nombre" : "BusApp Ibague",
+      "picPath" : "https://lh5.googleusercontent.com/-oEfJcJzZsyM/AAAAAAAAAAI/AAAAAAAAAAA/ANQ0kf7WP1686sbcerRjZduZLoNwINa6LQ/s96-c/photo.jpg"
+    },
+    "HoynDcXcPnYInR7RJDG1QLadHCk1" : {
+      "email" : "juansanchezc1799@gmail.com",
+      "id" : 1509388755643,
+      "nombre" : "Juan Andrés Sánchez",
+      "picPath" : "NO"
+    },
+    "Jib5DBDW2DSjBC5H6PzzCbXOAnC3" : {
+      "email" : "mariel30341@hotmail.com",
+      "id" : 1507919954631,
+      "nombre" : "Mariela Hernandez",
+      "picPath" : "NO"
+    },
+    "MNLWuZfvkhf4R32HunebhdR0ovG3" : {
+      "email" : "hacu12@hotmail.com",
+      "id" : 1507920026555,
+      "nombre" : "Harrison Gomez",
+      "picPath" : "NO"
+    },
+    "OZ7ZSkR0bie41U2X81a9CBSPVLJ3" : {
+      "email" : "edgarher24@hotmail.com",
+      "id" : 1509389367425,
+      "nombre" : "Edgar Hernandez Galindo",
+      "picPath" : "NO"
+    },
+    "OkKgV1A0d7fU9V1CY3I7vhqkYX23" : {
+      "email" : "katu_mendoza@hotmail.com",
+      "id" : 1509386374714,
+      "nombre" : "Karen Mendoza",
+      "picPath" : "NO"
+    },
+    "PcwlQ78GC6MVsGnSu5j1SSLBOK03" : {
+      "email" : "geralhbernal@gmail.com",
+      "id" : 1509494818599,
+      "nombre" : "Gerañdine Hurtado",
+      "picPath" : "NO"
+    },
+    "PunwNPYmzbbcs3KdtSSHK2CuXuz2" : {
+      "email" : "test1@test.com.co",
+      "id" : 1509383003693,
+      "nombre" : "Test 1",
+      "picPath" : "NO"
+    },
+    "RK9DVEmfRnSpSlfPeD0LCF37zCo1" : {
+      "email" : "mariacpinzon3@gmail.com",
+      "id" : 1509380649940,
+      "nombre" : "Camila Pinzón",
+      "picPath" : "NO"
+    },
+    "Rx84igIblgUMZBnOzZ8D5O7fYJD2" : {
+      "email" : "mar.luc@hotmail.com",
+      "id" : 1509386745466,
+      "nombre" : "Martha Lucía Pinzón",
+      "picPath" : "NO"
+    },
+    "T07RiDA23BOF55Dg3OV7F7iONOJ3" : {
+      "email" : "bart_1.1@hotmail.com",
+      "id" : 1507910687826,
+      "nombre" : "Marco Sanabria",
+      "picPath" : "NO"
+    },
+    "T4xxkvE18nYAsZS347Up9N9JIeE2" : {
+      "email" : "prueba@prueba.com",
+      "id" : 1509399937720,
+      "nombre" : "Prueba",
+      "picPath" : "NO"
+    },
+    "Upe2iZSLsfdkewdLq0Uuzc92vMC2" : {
+      "email" : "jorgeramican@gmail.com",
+      "id" : 1509731180579,
+      "nombre" : "Alex Ramírez",
+      "picPath" : "NO"
+    },
+    "VbkuLtTSKMTAi0FET1AYozBXv4y2" : {
+      "email" : "celestebernal013@gmail.com",
+      "id" : 1509411185399,
+      "nombre" : "Patricia Bernal Perez ",
+      "picPath" : "NO"
+    },
+    "gwbndA4JYfYOtSUhqZbMau2ravr1" : {
+      "email" : "ingoscareusan@gmil.com",
+      "id" : 1509203777677,
+      "nombre" : "Oscar Sanchez",
+      "picPath" : "NO"
+    },
+    "hv480ArT3LXSsXX9e6pzqMXou1z2" : {
+      "email" : "dandileon@yahoo.es",
+      "id" : 1508517307805,
+      "nombre" : "Marianna Vargaz",
+      "picPath" : "NO"
+    },
+    "hyrh6BnP92dyqHz8Sdx9368T9HC2" : {
+      "email" : "icardrnasri@uniminuto.edu.co",
+      "id" : 1509566152079,
+      "nombre" : "Andrea Cardenas",
+      "picPath" : "NO"
+    },
+    "j0bFcKT18LhclLW3kDB0kuhZ9Fr2" : {
+      "email" : "jarol0630@hotmail.com",
+      "id" : 1509391971795,
+      "nombre" : "Jarol Enciso Duarte ",
+      "picPath" : "NO"
+    },
+    "l2HL567Tisag1P1Yx3Z3p3UV6Ph2" : {
+      "email" : "hanneralexiscar@gmail.com",
+      "id" : 1509616698890,
+      "nombre" : "Hanner Carvajal",
+      "picPath" : "NO"
+    },
+    "p3Vnc6AYqiWNtUOnyIaKjdisbrB2" : {
+      "email" : "hacupitrah@ut.edu.co",
+      "id" : 1507828040521,
+      "nombre" : "Harold Alberto Cupitra Hernandez",
+      "picPath" : "https://lh3.googleusercontent.com/-vAKGxU7tORk/AAAAAAAAAAI/AAAAAAAAAJg/ICzqyDqHGY0/s96-c/photo.jpg"
+    },
+    "pwxzsONs4OOuyziElZS7Ry8fAMk2" : {
+      "email" : "test@test.com",
+      "id" : 1509381269772,
+      "nombre" : "Test Test",
+      "picPath" : "NO"
+    },
+    "tQhrnLzGezTQk2EOMZn7dmM1sIm2" : {
+      "email" : "jcgutierrez9142@misena.edu.co",
+      "id" : 1509333944411,
+      "nombre" : "Juan",
+      "picPath" : "NO"
+    },
+    "tckEQHIgjKP8xLqQhOAjyMoAclX2" : {
+      "email" : "jeraldin1906@gmail.com",
+      "id" : 1510156301717,
+      "nombre" : "Jeraldin Rojas Motta",
+      "picPath" : "NO"
+    },
+    "tzk8jUUOOKS0cgRYJKPTWfdnBEv1" : {
+      "email" : "juliandgalindob@gmail.com",
+      "id" : 1510424157955,
+      "nombre" : "Julian Galindo",
+      "picPath" : "NO"
+    },
+    "x8mCuWOb7XauwKtKMUphVXkZcG42" : {
+      "email" : "ingoscaredusan@gmail.com",
+      "id" : 1508905443136,
+      "nombre" : "Oscar Sanchez",
+      "picPath" : "https://lh3.googleusercontent.com/-WcVLKc7gh8A/AAAAAAAAAAI/AAAAAAAAAas/l0-oQxDVhZc/s96-c/photo.jpg"
+    },
+    "xJGnCaEHLsbyP0sjLNlLwPo6I4P2" : {
+      "email" : "busapp@gmail.com",
+      "id" : 1509213922599,
+      "nombre" : "Prueba",
+      "picPath" : "NO"
+    },
+    "z72TTMV04gN2nTtF9P5w088ZKDJ3" : {
+      "email" : "andersonsenavirtual02@gmail.com",
+      "id" : 1510639537878,
+      "nombre" : "Anderson Ayala Vera",
+      "picPath" : "NO"
+    },
+    "zOsH1RM6XBdtq6O46O3TQ55Gmin1" : {
+      "email" : "wilijart@hotmail.com",
+      "id" : 1509679463951,
+      "nombre" : "William Hurtado",
+      "picPath" : "NO"
+    },
+    "zvFma0gOS0h3WSpOcxWVdi3Ywcq1" : {
+      "email" : "v.ramirez1987@hotmail.com",
+      "id" : 1510663932956,
+      "nombre" : "Victor Ramirez",
+      "picPath" : "NO"
+    },
+    "zzZlH7CSgiTBvkIra7U0gb4U8Ja2" : {
+      "email" : "carolinamunuz@gmail.com",
+      "id" : 1509241206903,
+      "nombre" : "Carolina Muñoz",
+      "picPath" : "NO"
+    }
+  }
+}
